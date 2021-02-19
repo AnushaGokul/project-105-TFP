@@ -1,0 +1,32 @@
+.bg {
+    color: black;
+    background: url("random_shapes.jpg");
+    background-position:center;
+    background-size:cover;
+    height:100%;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+  background-color:black;
+  color:white;
+}
+
+.name_of_objects, #result_object_name, #accuracy_object_percentage {
+    color: black;
+    font-size: 19px;
+}
+
+#camera {
+    border: 2px solid;
+    width: 350px;
+    height: 300px;
+}
+
+#result {
+    border: 2px solid;
+    width: 350px;
+    height: 300px;
+}
